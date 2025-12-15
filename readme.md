@@ -1,4 +1,4 @@
-# Bikes DB (SQLite) — contents & usage
+# Motobikes DB (SQLite) — contents & usage
 
 This repository contains the extracted motorcycle data packaged into an SQLite database file `bikes.db` .
 
